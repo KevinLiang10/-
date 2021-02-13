@@ -1,2 +1,2 @@
 # Data Visualization
-This project is an data visualization project
+This project is a data visualization project
